@@ -1,3 +1,0 @@
-/home/zhang/myhub/cpp_learn/algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zhang/myhub/cpp_learn/algo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zhang/myhub/cpp_learn/algo/cmake-build-debug/CMakeFiles/algo.dir
